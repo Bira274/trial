@@ -6,3 +6,7 @@ Practice from Monday coding lesson
 - orange
 - yellow
 - pink
+- red
+- blue
+- violet
+- green
