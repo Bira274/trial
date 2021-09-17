@@ -1,0 +1,24 @@
+/* selector { css-rule: value;  } */
+/* element selector */
+body {
+    color: aqua;
+    background-color: rgb(170, 48, 17);
+}
+/*class selector */
+.body { 
+    color: brown;
+    background-image: url('../peacelily.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right left;
+}
+/*id selector */
+#content { 
+    color:rgb(113, 173, 24);
+}
+
+/* more advanced selectors */
+body h1 {
+    color: hotpink;
+}
