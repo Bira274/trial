@@ -7,7 +7,7 @@ body {
 /*class selector */
 .body { 
     color: brown;
-    background-image: url('../peacelily.jpg');
+    background-image: url('../images/peacelily.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
